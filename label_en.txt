@@ -1,0 +1,193 @@
+Hair Texture: Straight Hair
+Hair Texture: Wavy Hair
+Hair Texture: Curly Hair
+Hair Texture: Frizzy Hair
+Hair Texture: Kinky Hair
+Hair Texture: Fine Soft Hair
+Hair Texture: Thick Coarse Hair
+Hair Texture: Silky Glossy Hair
+Hair Texture: Voluminous Hair
+Hair Texture: Messy Hair
+Hair Texture: Wet Hair
+Hair Texture: Semi-Straight Hair
+Hair Texture: Salt and Pepper Hair
+Hair Length: Buzz Cut
+Hair Length: Short Hair
+Hair Length: Chin-Length Hair
+Hair Length: Shoulder-Length Hair
+Hair Length: Medium-Long Hair
+Hair Length: Long Hair
+Hair Length: Very Long Hair
+Hair Length: Floor-Length Hair
+Hair Length: Medium-Short Hair
+Haircut: Bob Cut
+Haircut: Blunt Bob
+Haircut: Bob with Blunt Bangs
+Haircut: One-Length Cut
+Haircut: Layered Hair
+Haircut: Shaggy Hair
+Haircut: Wolf Cut
+Haircut: Hime Cut
+Haircut: Bowl Cut
+Haircut: Pixie Cut
+Haircut: Undercut
+Haircut: Fade Cut
+Haircut: Crew Cut
+Haircut: Mohawk
+Haircut: A-Line Bob
+Haircut: Graduated Bob
+Haircut: Mullet
+Styling: Center Part
+Styling: Side Part
+Styling: Slicked Back Hair
+Styling: Swept Back Front
+Styling: Flipped Hair
+Styling: Inward Curled Ends
+Styling: Permed Hair
+Styling: Drill Hair
+Styling: Fluffy Curled Hair
+Styling: Spiky Hair
+Styling: Pompadour
+Styling: Pompadour with Ducktail
+Styling: Wet Look Hair
+Styling: Bedhead
+Styling: Loose Curls
+Styling: Teased Volume
+Styling: Sleek Straight
+Styling: Messy Braids
+Tied Hairstyle: Ponytail
+Tied Hairstyle: High Ponytail
+Tied Hairstyle: Low Ponytail
+Tied Hairstyle: Side Ponytail
+Tied Hairstyle: Twintails
+Tied Hairstyle: Half Twintails
+Tied Hairstyle: Hair Bun
+Tied Hairstyle: Double Buns
+Tied Hairstyle: Chignon
+Tied Hairstyle: French Twist
+Tied Hairstyle: Single Braid
+Tied Hairstyle: Twin Braids
+Tied Hairstyle: French Braid
+Tied Hairstyle: Fishtail Braid
+Tied Hairstyle: Crown Braid
+Tied Hairstyle: Bubble Ponytail
+Tied Hairstyle: Half Updo
+Tied Hairstyle: Dreadlocks
+Tied Hairstyle: Cornrows
+Tied Hairstyle: Nihongami
+Tied Hairstyle: Twist Tuck Ponytail
+Tied Hairstyle: Rope Braid
+Tied Hairstyle: Gibson Tuck
+Tied Hairstyle: Braided Down Style
+Tied Hairstyle: Braided Ponytail
+Tied Hairstyle: Braid with Ribbon
+Tied Hairstyle: Space Buns
+Bangs: Blunt Bangs
+Bangs: See-Through Bangs
+Bangs: Side-Swept Bangs
+Bangs: Curtain Bangs
+Bangs: Short Bangs
+Bangs: Hair Over Eyes
+Bangs: Hair Over One Eye
+Bangs: M-Shaped Bangs
+Bangs: No Bangs
+Bangs: Swept-Up Bangs
+Bangs: Long See-Through Bangs
+Bangs: Asymmetric Bangs
+Bangs: Thick Straight Bangs
+Hair Parts: Sidelocks
+Hair Parts: Face-Framing Strands
+Hair Parts: Ahoge
+Hair Parts: Stray Hair
+Hair Parts: Hair Intakes
+Hair Parts: Long Nape Hair
+Hair Parts: Visible Part Line
+Hair Parts: Cowlick Strands
+Hair Parts: Hair Extensions
+Salon Trend: Korean Hush Cut
+Salon Trend: Layered Lob
+Salon Trend: Handsome Short
+Salon Trend: Soft Wave Perm
+Salon Trend: Airy Bob
+Salon Trend: Inner Color Hair
+Salon Trend: Earring Color
+Salon Trend: Gradient Color
+Salon Trend: Platinum Blonde
+Salon Trend: Tassel Bob
+Salon Trend: Long Wolf
+Salon Trend: Blunt One-Length
+Salon Men: Spiral Perm (Men)
+Salon Men: Center Part (Men)
+Salon Men: Comma Hair
+Salon Men: Soft Mohawk
+Salon Men: Spiky Faux Hawk
+Salon Men: Undercut Perm
+Salon Men: Barber Style Fade
+Salon Men: Natural Mash (Men)
+Salon Men: Up Bang
+Salon Men: Business Short
+Salon Men: Man Bun
+Salon Men: Shaved Head
+Occupation: Military High and Tight
+Occupation: Monk Shaved Head
+Occupation: Sumo Oicho Topknot
+Occupation: Maid Bun
+Occupation: Nurse Tied Hair
+Occupation: Ballerina Bun
+Occupation: Chef Hair Net
+Occupation: Miko Tied Hair
+Occupation: Butler Slicked Hair
+Occupation: Punk Mohawk
+Period Japanese: Samurai Chonmage
+Period Japanese: Sohatsu Tied Hair
+Period Japanese: Shimada Mage
+Period Japanese: Momoware
+Period Japanese: Marumage
+Period Japanese: Taisho Bob
+Period Japanese: Chigo Mage
+Period Japanese: Heian Suihatsu
+Period Western: Baroque Pompadour
+Period Western: Victorian Ringlets
+Period Western: Finger Wave
+Period Western: Victory Rolls
+Period Western: Beehive
+Period Western: Afro
+Period Western: Powdered Wig
+Period Western: Medieval Bowl Cut
+Fantasy: Elf Braided Long
+Fantasy: Princess Tiara Braid
+Fantasy: Witch Long Wave
+Fantasy: Warrior Half-Up
+Fantasy: Pirate Bandana Hair
+Fantasy: Beast Ears Hair
+Fantasy: Ojou Drill Curls
+Fantasy: Cyberpunk Undercut
+Fantasy: Angelic Blonde
+Fantasy: Dragonkin Horned Hair
+Hair Color: Black Hair
+Hair Color: Dark Brown Hair
+Hair Color: Brown Hair
+Hair Color: Chestnut Hair
+Hair Color: Ash Brown Hair
+Hair Color: Blonde Hair
+Hair Color: Platinum Blonde Hair
+Hair Color: Red Hair
+Hair Color: Orange Hair
+Hair Color: Pink Hair
+Hair Color: Blue Hair
+Hair Color: Light Blue Hair
+Hair Color: Green Hair
+Hair Color: Purple Hair
+Hair Color: White Hair
+Hair Color: Silver Hair
+Hair Color: Grey Hair
+Hair Color: Gradient Hair
+Hair Color: Highlighted Hair
+Hair Color: Inner Color
+Hair Color: Flaxen Hair
+Hair Color: Navy Blue Hair
+Hair Color: Turquoise Hair
+Hair Color: Lavender Hair
+Hair Color: Mint Green Hair
+Hair Color: Rainbow Hair
+Hair Color: Blonde Highlights
