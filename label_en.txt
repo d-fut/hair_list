@@ -191,3 +191,44 @@ Hair Color: Lavender Hair
 Hair Color: Mint Green Hair
 Hair Color: Rainbow Hair
 Hair Color: Blonde Highlights
+Hair Texture: Spiked Hair
+Haircut: Pompadour
+Haircut: Afro
+Hair Texture: Hair Flip
+Hair Length: Medium Hair
+Hair Length: Short Hair With Long Locks
+Hair Length: Low-Tied Long Hair
+Hair Length: Very Short Hair
+Hair Length: Absurdly Long Hair
+Hair Length: Low-Braided Long Hair
+Hair Length: Long Hair Between Eyes
+Hair Length: Low-Tied Medium Hair
+Tied Hairstyle: Braid
+Tied Hairstyle: Single Hair Bun
+Tied Hairstyle: Hair Rings
+Tied Hairstyle: Cone Hair Bun
+Tied Hairstyle: Hair Up
+Tied Hairstyle: Braided Hair Rings
+Tied Hairstyle: Multi-Tied Hair
+Tied Hairstyle: Doughnut Hair Bun
+Tied Hairstyle: Heart Hair Bun
+Tied Hairstyle: Quad Hair Rings
+Tied Hairstyle: Multiple Hair Buns
+Tied Hairstyle: Huge Hair Bun
+Bangs: Hair Between Eyes
+Bangs: Swept Bangs
+Bangs: Curtained Hair
+Hair Color: Multicolored Hair
+Hair Color: Two-Tone Hair
+Hair Color: Aqua Hair
+Hair Color: Colored Inner Hair
+Hair Color: Dark Blue Hair
+Hair Color: Roots (Hair)
+Hair Color: Wood Gradient Hair
+Hair Parts: Antenna Hair
+Hair Parts: Loose Hair Strand
+Hair Parts: Parted Hair
+Hair Parts: Lone Nape Hair
+Hair Parts: Heart Antenna Hair
+Hair Parts: Double-Parted Hair
+Hair Parts: Huge Antenna Hair
