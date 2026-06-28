@@ -192,7 +192,6 @@ hair_color_mint_green_hair
 hair_color_rainbow_hair
 hair_color_blonde_highlights
 hair_texture_spiked_hair
-haircut_pompadour
 haircut_afro
 hair_texture_hair_flip
 hair_length_medium_hair
@@ -201,7 +200,7 @@ hair_length_low_tied_long_hair
 hair_length_very_short_hair
 hair_length_absurdly_long_hair
 hair_length_low_braided_long_hair
-hair_length_long_hair_between_eyes
+bangs_long_hair_between_eyes
 hair_length_low_tied_medium_hair
 tied_hairstyle_braid
 tied_hairstyle_single_hair_bun
@@ -227,8 +226,8 @@ hair_color_roots_hair
 hair_color_wood_gradient_hair
 hair_parts_antenna_hair
 hair_parts_loose_hair_strand
-hair_parts_parted_hair
+bangs_parted_bangs
 hair_parts_lone_nape_hair
 hair_parts_heart_antenna_hair
-hair_parts_double_parted_hair
+bangs_2_way_bangs_center_parted
 hair_parts_huge_antenna_hair

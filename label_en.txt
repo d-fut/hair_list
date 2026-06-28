@@ -192,7 +192,6 @@ Hair Color: Mint Green Hair
 Hair Color: Rainbow Hair
 Hair Color: Blonde Highlights
 Hair Texture: Spiked Hair
-Haircut: Pompadour
 Haircut: Afro
 Hair Texture: Hair Flip
 Hair Length: Medium Hair
@@ -201,7 +200,7 @@ Hair Length: Low-Tied Long Hair
 Hair Length: Very Short Hair
 Hair Length: Absurdly Long Hair
 Hair Length: Low-Braided Long Hair
-Hair Length: Long Hair Between Eyes
+Bangs: Long Hair Between Eyes
 Hair Length: Low-Tied Medium Hair
 Tied Hairstyle: Braid
 Tied Hairstyle: Single Hair Bun
@@ -227,8 +226,8 @@ Hair Color: Roots (Hair)
 Hair Color: Wood Gradient Hair
 Hair Parts: Antenna Hair
 Hair Parts: Loose Hair Strand
-Hair Parts: Parted Hair
+Bangs: Parted Bangs
 Hair Parts: Lone Nape Hair
 Hair Parts: Heart Antenna Hair
-Hair Parts: Double-Parted Hair
+Bangs: 2-Way Bangs (Center-Parted)
 Hair Parts: Huge Antenna Hair
